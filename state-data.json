@@ -1,0 +1,516 @@
+{
+  "version": "2026-05-05",
+  "updated": "2026-05-05",
+  "data": {
+    "AL": {
+      "name": "Alabama",
+      "popGrowth": 1.4,
+      "unemployment": 2.9,
+      "propertyTax": 0.41,
+      "incomeTax": 5,
+      "landlordScore": 5,
+      "violentCrime": 446,
+      "eduRank": 45
+    },
+    "AK": {
+      "name": "Alaska",
+      "popGrowth": -0.4,
+      "unemployment": 4.6,
+      "propertyTax": 1.19,
+      "incomeTax": 0,
+      "landlordScore": 4,
+      "violentCrime": 837,
+      "eduRank": 38
+    },
+    "AZ": {
+      "name": "Arizona",
+      "popGrowth": 2.7,
+      "unemployment": 3.4,
+      "propertyTax": 0.66,
+      "incomeTax": 2.5,
+      "landlordScore": 5,
+      "violentCrime": 432,
+      "eduRank": 39
+    },
+    "AR": {
+      "name": "Arkansas",
+      "popGrowth": 1,
+      "unemployment": 3.4,
+      "propertyTax": 0.64,
+      "incomeTax": 4.4,
+      "landlordScore": 5,
+      "violentCrime": 645,
+      "eduRank": 41
+    },
+    "CA": {
+      "name": "California",
+      "popGrowth": -1.7,
+      "unemployment": 5.3,
+      "propertyTax": 0.75,
+      "incomeTax": 13.3,
+      "landlordScore": 1,
+      "violentCrime": 499,
+      "eduRank": 32
+    },
+    "CO": {
+      "name": "Colorado",
+      "popGrowth": 1,
+      "unemployment": 3.6,
+      "propertyTax": 0.55,
+      "incomeTax": 4.4,
+      "landlordScore": 3,
+      "violentCrime": 492,
+      "eduRank": 17
+    },
+    "CT": {
+      "name": "Connecticut",
+      "popGrowth": 0.3,
+      "unemployment": 4.6,
+      "propertyTax": 2.15,
+      "incomeTax": 6.99,
+      "landlordScore": 2,
+      "violentCrime": 167,
+      "eduRank": 7
+    },
+    "DE": {
+      "name": "Delaware",
+      "popGrowth": 1.7,
+      "unemployment": 4.2,
+      "propertyTax": 0.61,
+      "incomeTax": 6.6,
+      "landlordScore": 3,
+      "violentCrime": 306,
+      "eduRank": 26
+    },
+    "FL": {
+      "name": "Florida",
+      "popGrowth": 4.4,
+      "unemployment": 3.3,
+      "propertyTax": 0.91,
+      "incomeTax": 0,
+      "landlordScore": 5,
+      "violentCrime": 258,
+      "eduRank": 14
+    },
+    "GA": {
+      "name": "Georgia",
+      "popGrowth": 2.3,
+      "unemployment": 3.4,
+      "propertyTax": 0.92,
+      "incomeTax": 5.49,
+      "landlordScore": 5,
+      "violentCrime": 360,
+      "eduRank": 27
+    },
+    "HI": {
+      "name": "Hawaii",
+      "popGrowth": -0.3,
+      "unemployment": 3,
+      "propertyTax": 0.32,
+      "incomeTax": 11,
+      "landlordScore": 2,
+      "violentCrime": 271,
+      "eduRank": 31
+    },
+    "ID": {
+      "name": "Idaho",
+      "popGrowth": 4.7,
+      "unemployment": 3.2,
+      "propertyTax": 0.69,
+      "incomeTax": 5.8,
+      "landlordScore": 5,
+      "violentCrime": 243,
+      "eduRank": 22
+    },
+    "IL": {
+      "name": "Illinois",
+      "popGrowth": -1.6,
+      "unemployment": 4.9,
+      "propertyTax": 2.27,
+      "incomeTax": 4.95,
+      "landlordScore": 2,
+      "violentCrime": 422,
+      "eduRank": 16
+    },
+    "IN": {
+      "name": "Indiana",
+      "popGrowth": 0.9,
+      "unemployment": 3.6,
+      "propertyTax": 0.85,
+      "incomeTax": 3.05,
+      "landlordScore": 5,
+      "violentCrime": 357,
+      "eduRank": 30
+    },
+    "IA": {
+      "name": "Iowa",
+      "popGrowth": 0.6,
+      "unemployment": 3.3,
+      "propertyTax": 1.57,
+      "incomeTax": 5.7,
+      "landlordScore": 4,
+      "violentCrime": 265,
+      "eduRank": 11
+    },
+    "KS": {
+      "name": "Kansas",
+      "popGrowth": 0.4,
+      "unemployment": 2.9,
+      "propertyTax": 1.41,
+      "incomeTax": 5.7,
+      "landlordScore": 4,
+      "violentCrime": 421,
+      "eduRank": 19
+    },
+    "KY": {
+      "name": "Kentucky",
+      "popGrowth": 0.6,
+      "unemployment": 4.5,
+      "propertyTax": 0.83,
+      "incomeTax": 4,
+      "landlordScore": 4,
+      "violentCrime": 257,
+      "eduRank": 35
+    },
+    "LA": {
+      "name": "Louisiana",
+      "popGrowth": -1.3,
+      "unemployment": 3.9,
+      "propertyTax": 0.55,
+      "incomeTax": 4.25,
+      "landlordScore": 5,
+      "violentCrime": 549,
+      "eduRank": 47
+    },
+    "ME": {
+      "name": "Maine",
+      "popGrowth": 1.2,
+      "unemployment": 3,
+      "propertyTax": 1.3,
+      "incomeTax": 7.15,
+      "landlordScore": 3,
+      "violentCrime": 102,
+      "eduRank": 12
+    },
+    "MD": {
+      "name": "Maryland",
+      "popGrowth": 0,
+      "unemployment": 2.9,
+      "propertyTax": 1.09,
+      "incomeTax": 5.75,
+      "landlordScore": 3,
+      "violentCrime": 399,
+      "eduRank": 18
+    },
+    "MA": {
+      "name": "Massachusetts",
+      "popGrowth": 0,
+      "unemployment": 3.5,
+      "propertyTax": 1.14,
+      "incomeTax": 9,
+      "landlordScore": 1,
+      "violentCrime": 322,
+      "eduRank": 1
+    },
+    "MI": {
+      "name": "Michigan",
+      "popGrowth": -0.4,
+      "unemployment": 4,
+      "propertyTax": 1.54,
+      "incomeTax": 4.25,
+      "landlordScore": 4,
+      "violentCrime": 478,
+      "eduRank": 33
+    },
+    "MN": {
+      "name": "Minnesota",
+      "popGrowth": 0.5,
+      "unemployment": 3.3,
+      "propertyTax": 1.12,
+      "incomeTax": 9.85,
+      "landlordScore": 3,
+      "violentCrime": 273,
+      "eduRank": 9
+    },
+    "MS": {
+      "name": "Mississippi",
+      "popGrowth": -0.5,
+      "unemployment": 3.3,
+      "propertyTax": 0.81,
+      "incomeTax": 4.7,
+      "landlordScore": 5,
+      "violentCrime": 320,
+      "eduRank": 50
+    },
+    "MO": {
+      "name": "Missouri",
+      "popGrowth": 0.6,
+      "unemployment": 3.2,
+      "propertyTax": 0.97,
+      "incomeTax": 4.95,
+      "landlordScore": 4,
+      "violentCrime": 488,
+      "eduRank": 36
+    },
+    "MT": {
+      "name": "Montana",
+      "popGrowth": 3.2,
+      "unemployment": 3.3,
+      "propertyTax": 0.84,
+      "incomeTax": 5.9,
+      "landlordScore": 4,
+      "violentCrime": 459,
+      "eduRank": 25
+    },
+    "NE": {
+      "name": "Nebraska",
+      "popGrowth": 0.7,
+      "unemployment": 2.8,
+      "propertyTax": 1.73,
+      "incomeTax": 5.84,
+      "landlordScore": 4,
+      "violentCrime": 313,
+      "eduRank": 13
+    },
+    "NV": {
+      "name": "Nevada",
+      "popGrowth": 1.7,
+      "unemployment": 5.4,
+      "propertyTax": 0.6,
+      "incomeTax": 0,
+      "landlordScore": 4,
+      "violentCrime": 458,
+      "eduRank": 49
+    },
+    "NH": {
+      "name": "New Hampshire",
+      "popGrowth": 1.3,
+      "unemployment": 2.6,
+      "propertyTax": 2.18,
+      "incomeTax": 0,
+      "landlordScore": 4,
+      "violentCrime": 132,
+      "eduRank": 6
+    },
+    "NJ": {
+      "name": "New Jersey",
+      "popGrowth": 0.4,
+      "unemployment": 4.6,
+      "propertyTax": 2.49,
+      "incomeTax": 10.75,
+      "landlordScore": 1,
+      "violentCrime": 195,
+      "eduRank": 2
+    },
+    "NM": {
+      "name": "New Mexico",
+      "popGrowth": 0.3,
+      "unemployment": 3.8,
+      "propertyTax": 0.8,
+      "incomeTax": 5.9,
+      "landlordScore": 4,
+      "violentCrime": 780,
+      "eduRank": 48
+    },
+    "NY": {
+      "name": "New York",
+      "popGrowth": -3,
+      "unemployment": 4.2,
+      "propertyTax": 1.72,
+      "incomeTax": 10.9,
+      "landlordScore": 1,
+      "violentCrime": 434,
+      "eduRank": 8
+    },
+    "NC": {
+      "name": "North Carolina",
+      "popGrowth": 2.9,
+      "unemployment": 3.5,
+      "propertyTax": 0.82,
+      "incomeTax": 4.5,
+      "landlordScore": 5,
+      "violentCrime": 363,
+      "eduRank": 21
+    },
+    "ND": {
+      "name": "North Dakota",
+      "popGrowth": 0.7,
+      "unemployment": 2,
+      "propertyTax": 0.98,
+      "incomeTax": 2.5,
+      "landlordScore": 5,
+      "violentCrime": 287,
+      "eduRank": 24
+    },
+    "OH": {
+      "name": "Ohio",
+      "popGrowth": 0,
+      "unemployment": 4.4,
+      "propertyTax": 1.59,
+      "incomeTax": 3.5,
+      "landlordScore": 4,
+      "violentCrime": 297,
+      "eduRank": 23
+    },
+    "OK": {
+      "name": "Oklahoma",
+      "popGrowth": 1.7,
+      "unemployment": 3.4,
+      "propertyTax": 0.9,
+      "incomeTax": 4.75,
+      "landlordScore": 5,
+      "violentCrime": 419,
+      "eduRank": 44
+    },
+    "OR": {
+      "name": "Oregon",
+      "popGrowth": 0.4,
+      "unemployment": 4.2,
+      "propertyTax": 0.93,
+      "incomeTax": 9.9,
+      "landlordScore": 1,
+      "violentCrime": 326,
+      "eduRank": 34
+    },
+    "PA": {
+      "name": "Pennsylvania",
+      "popGrowth": -0.7,
+      "unemployment": 3.4,
+      "propertyTax": 1.49,
+      "incomeTax": 3.07,
+      "landlordScore": 4,
+      "violentCrime": 350,
+      "eduRank": 15
+    },
+    "RI": {
+      "name": "Rhode Island",
+      "popGrowth": 0,
+      "unemployment": 3.8,
+      "propertyTax": 1.63,
+      "incomeTax": 5.99,
+      "landlordScore": 2,
+      "violentCrime": 232,
+      "eduRank": 28
+    },
+    "SC": {
+      "name": "South Carolina",
+      "popGrowth": 3,
+      "unemployment": 3.4,
+      "propertyTax": 0.57,
+      "incomeTax": 6.2,
+      "landlordScore": 5,
+      "violentCrime": 530,
+      "eduRank": 42
+    },
+    "SD": {
+      "name": "South Dakota",
+      "popGrowth": 2.4,
+      "unemployment": 1.9,
+      "propertyTax": 1.31,
+      "incomeTax": 0,
+      "landlordScore": 5,
+      "violentCrime": 472,
+      "eduRank": 29
+    },
+    "TN": {
+      "name": "Tennessee",
+      "popGrowth": 2.6,
+      "unemployment": 3.4,
+      "propertyTax": 0.71,
+      "incomeTax": 0,
+      "landlordScore": 5,
+      "violentCrime": 621,
+      "eduRank": 37
+    },
+    "TX": {
+      "name": "Texas",
+      "popGrowth": 3.5,
+      "unemployment": 4,
+      "propertyTax": 1.74,
+      "incomeTax": 0,
+      "landlordScore": 5,
+      "violentCrime": 432,
+      "eduRank": 40
+    },
+    "UT": {
+      "name": "Utah",
+      "popGrowth": 3.4,
+      "unemployment": 3.3,
+      "propertyTax": 0.66,
+      "incomeTax": 4.85,
+      "landlordScore": 5,
+      "violentCrime": 240,
+      "eduRank": 5
+    },
+    "VT": {
+      "name": "Vermont",
+      "popGrowth": 1,
+      "unemployment": 2.5,
+      "propertyTax": 1.9,
+      "incomeTax": 8.75,
+      "landlordScore": 2,
+      "violentCrime": 175,
+      "eduRank": 10
+    },
+    "VA": {
+      "name": "Virginia",
+      "popGrowth": 0.7,
+      "unemployment": 2.9,
+      "propertyTax": 0.87,
+      "incomeTax": 5.75,
+      "landlordScore": 3,
+      "violentCrime": 235,
+      "eduRank": 4
+    },
+    "WA": {
+      "name": "Washington",
+      "popGrowth": 1.1,
+      "unemployment": 4.7,
+      "propertyTax": 0.98,
+      "incomeTax": 0,
+      "landlordScore": 2,
+      "violentCrime": 376,
+      "eduRank": 20
+    },
+    "WV": {
+      "name": "West Virginia",
+      "popGrowth": -1.7,
+      "unemployment": 4,
+      "propertyTax": 0.59,
+      "incomeTax": 5.12,
+      "landlordScore": 4,
+      "violentCrime": 327,
+      "eduRank": 46
+    },
+    "WI": {
+      "name": "Wisconsin",
+      "popGrowth": 0.5,
+      "unemployment": 3,
+      "propertyTax": 1.85,
+      "incomeTax": 7.65,
+      "landlordScore": 4,
+      "violentCrime": 320,
+      "eduRank": 3
+    },
+    "WY": {
+      "name": "Wyoming",
+      "popGrowth": 0.3,
+      "unemployment": 3.4,
+      "propertyTax": 0.61,
+      "incomeTax": 0,
+      "landlordScore": 5,
+      "violentCrime": 213,
+      "eduRank": 43
+    },
+    "DC": {
+      "name": "District of Columbia",
+      "popGrowth": -2,
+      "unemployment": 5.2,
+      "propertyTax": 0.57,
+      "incomeTax": 10.75,
+      "landlordScore": 1,
+      "violentCrime": 1150,
+      "eduRank": 50
+    }
+  }
+}
